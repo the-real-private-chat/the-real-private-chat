@@ -1,0 +1,7 @@
+{
+  "name": "the-real-private-chat",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
